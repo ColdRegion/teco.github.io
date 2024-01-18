@@ -210,8 +210,8 @@ header .menu .header-social-icon a:not(:last-child) {
   background-image: url("https://attachment.mcbbs.net/data/myattachment/forum/202401/18/133432lyyvoztoezg5n6gw.png");
   min-height: 90rem;
   background-repeat: no-repeat;
-  background-position: center center;
-  background-size: auto 100%;
+  background-position: center;
+  background-size: cover;
 }
 .hero-area-mask {
   height: 100%;
